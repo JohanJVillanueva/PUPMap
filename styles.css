@@ -93,3 +93,47 @@ h3,h4,h5{
     text-align: center;
 }
 
+#guard{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#mabini{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#pe{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#tennis{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#nut{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
