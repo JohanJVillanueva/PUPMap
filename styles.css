@@ -6,11 +6,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80px;
+    height: 40px;
     background-color: #691919;
   }
   .navbar img {
-    height: 50px;
+    height: 30px;
   }
 
   body {
