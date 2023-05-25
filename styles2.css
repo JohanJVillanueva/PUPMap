@@ -1,0 +1,208 @@
+#myDiv {
+    position: absolute;
+    top: 0;
+    left:0;
+    z-index: 0;
+    background-repeat: no-repeat;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    box-shadow: 0   0   0;
+  }
+
+body{
+    margin: 0 auto;
+}
+
+@import url('https://fonts.cdnfonts.com/css/heavitas');
+@import url('https://fonts.cdnfonts.com/css/dm-sans');
+     
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    background-color: #691919;
+  }
+  .navbar img {
+    height: 30px;
+  }
+
+  body {
+    margin: 0;
+    background-color: maroon;
+  }
+
+  div {
+    box-shadow: 5px 5px 5px rgba(13, 13, 13, 0.254);
+    margin: auto;
+  }
+
+
+  .box {
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+  }
+
+
+
+h1{
+    font-family: 'Heavitas', sans-serif;   
+    font-size: 20px;                                          
+}
+
+h3,h4,h5{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;     
+                                                
+}
+
+.picmap{
+    width: 600px;   
+}
+
+@keyframes slideUp {
+    0% {
+      top: 25%;
+    }
+    100% {
+      
+    }
+  }
+
+  
+
+#gym{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#oval{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#chapel{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#pool{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#pylon{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#guard{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#mabini{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#pe{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#tennis{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+#nut{
+    animation: slideUp 1s;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    background-color: rgb(255, 183, 0);
+    width: 35%;
+    margin: 20px;
+    text-align: center;
+    border-radius: 30px;
+}
