@@ -33,6 +33,8 @@
     text-align: center;
   }
 
+
+
 h1{
     font-family: 'Heavitas', sans-serif;                                             
 }
@@ -44,5 +46,50 @@ h3,h4,h5{
 
 .picmap{
     width: 600px;   
+}
+
+#gym{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#oval{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#chapel{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#pool{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+
+#pylon{
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+    width: 47%;
+    float: left;
+    margin: 20px;
+    text-align: center;
 }
 
